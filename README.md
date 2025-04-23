@@ -15,7 +15,7 @@ Built as part of an ethical hacking research project to explore wireless network
 - 
 ## 🛠️ Installation
 <p align="left">
-  <a href="https://github.com/pl7x3cut0r/wifi-bf-tool/releases/download/v1.0/wifi.exe">
+  <a href="https://github.com/pl7x3cut0r/wifi-bf-tool/releases/download/v1.0/WiFi.Brute.Force.exe">
     <img src="https://img.shields.io/badge/Download-WiFi_Storm_v3.1.0-green?style=for-the-badge&logo=windows" alt="Download Button"/>
   </a>  
 </p> 

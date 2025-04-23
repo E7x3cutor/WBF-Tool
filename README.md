@@ -1,6 +1,6 @@
 ## 📡 Tool Advanced Wi-Fi Brute Force Engine (Dictionary-Based Attack)
 
-![Tool Preview](https://miro.medium.com/v2/resize:fit:720/format:webp/1*UjrLYyHoyC111ytJGseLeg.png)
+![Tool Preview](1.PNG)
 
 ## 📌 Overview
 A Wi-Fi penetration testing tool developed by **pl7x3cut0r**, designed to perform dictionary-based brute-force attacks

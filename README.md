@@ -13,11 +13,10 @@ Built as part of an ethical hacking research project to explore wireless network
 - 🚀 Powerful Performance With Incredible Speed
 - 📶 Support For Networks that Rely on the MAC Address in the Password
 - 📊 Save Program Progress Status when you Stop
-- 
 ## 🛠️ Installation
 <p align="left">
   <a href="https://github.com/pl7x3cut0r/wifi-bf-tool/releases/download/v1.0/WiFi.Brute.Force.exe">
-    <img src="https://img.shields.io/badge/Download-WiFi_Storm_v3.1.0-green?style=for-the-badge&logo=windows" alt="Download Button"/>
+    <img src="https://img.shields.io/badge/Download-PL7X3CUT0R-green?style=for-the-badge&logo=windows" alt="Download Button"/>
   </a>  
 </p> 
 

@@ -16,7 +16,7 @@ Built as part of an ethical hacking research project to explore wireless network
 ## 🛠️ Installation
 <p align="left">
   <a href="https://github.com/pl7x3cut0r/wifi-bf-tool/releases/download/v1.0/WiFi.Brute.Force.exe">
-    <img src="https://img.shields.io/badge/Download-PL7X3CUT0R-green?style=for-the-badge&logo=windows" alt="Download Button"/>
+    <img src="https://img.shields.io/badge/Download-pl7x3cut0r-red?style=for-the-badge&logo=windows" alt="Download Button"/>
   </a>  
 </p> 
 

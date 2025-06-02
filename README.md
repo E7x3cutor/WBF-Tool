@@ -1,40 +1,29 @@
-# 🔐 Advanced Wi-Fi Penetration Testing Suite
+##📡 Tool Advanced Wi-Fi Brute Force
+### (Dictionary-Based Attack)
 
-![Banner](1.PNG)  
-*Enterprise-grade wireless security assessment tool*
+![Tool Preview](1.PNG)
 
----
+## 📌 Overview
+A Wi-Fi penetration testing tool developed by **pl7x3cut0r**, designed to perform dictionary-based brute-force attacks
+Built as part of an ethical hacking research project to explore wireless network vulnerabilities
 
-## 📜 Legal Disclaimer
-**Warning:** Unauthorized access to computer networks is illegal. This tool is intended for:  
-✅ Authorized penetration testing  
-✅ Security research  
-✅ Educational purposes  
+## ✨ Features
+- 🖥 User-Friendly Interface 
+- ⚙️ Lightweight Program
+- 🚀 Powerful Performance With Incredible Speed
+- 📶 Support For Networks that Rely on the MAC Address in the Password
+- 📊 Save Program Progress Status when you Stop
+## 🛠️ Installation
+<p align="left">
+  <a href="https://github.com/pl7x3cut0r/wifi-bf-tool/releases/download/v1.0/WiFi.Brute.Force.exe">
+    <img src="https://img.shields.io/badge/Download-pl7x3cut0r-red?style=for-the-badge&logo=windows" alt="Download Button"/>
+  </a>  
+</p> 
 
-By using this software, you agree to use it only on networks you own or have explicit permission to test.
-
----
-
-## 🧰 Technical Specifications
-
-### 🏗 Core Architecture
-- **Attack Method:** Hybrid dictionary/pattern-based brute force
-- **Cracking Engine:** Multi-threaded (Async I/O)
-- **Supported Protocols:** WPA/WPA2-PSK, WEP (legacy)
-- **Persistence:** JSON-based session saving
-
-### 📦 Dependencies
-| Component | Version |
-|-----------|---------|
-| .NET Runtime | 6.0+ |
-| WinPCap | 4.1.3+ |
-| Supported Drivers | See [COMPATIBILITY.md](COMPATIBILITY.md) |
-
----
-
-## 🛠 Installation Guide
-
-### Method 1: Binary Deployment
-```powershell
-# Recommended for most users
-iwr -Uri "https://github.com/pl7x3cut0r/wifi-bf-tool/releases/v1.0/WiFi.Brute.Force.exe" -OutFile "wifi_bf.exe"
+## 📚 Documentation
+<div align="left">
+  <p>To view the user guide for the tool, read a detailed article on Medium:</p>
+  <a href="https://medium.com/@pl7x3cut0r/tool-advanced-wi-fi-brute-force-engine-dictionary-based-attack-5dfa9a567f2f" target="_blank">
+    <img src="https://img.shields.io/badge/📖_Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Documentation"/>
+  </a>
+</div>

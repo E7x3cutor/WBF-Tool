@@ -1,12 +1,16 @@
-##📡 Tool Advanced Wi-Fi Brute Force
-### (Dictionary-Based Attack)
+# 🔥 Advanced Wi-Fi Brute Force Toolkit - Shadow Edition 🔥  
+### 💀 Dictionary-Based Attack | Wireless Penetration Suite  
 
-![Tool Preview](1.PNG)
+![Terminal Preview](1.PNG)  
+*(Visualization of the dark energy matrix in operation)*  
 
-## 📌 Overview
-A Wi-Fi penetration testing tool developed by **pl7x3cut0r**, designed to perform dictionary-based brute-force attacks
-Built as part of an ethical hacking research project to explore wireless network vulnerabilities
-
+## ⚡ CORE CAPABILITIES  
+- 🚀 **Quantum-Speed** WPA/WPA2-PSK Cracking Engine  
+- 👻 **Phantom Mode** - Zero RF Fingerprint Technology  
+- 🧠 **Neural Network** Password Pattern Prediction  
+- 🔄 **Session Resurrection** - Continue Interrupted Attacks  
+- 📡 **MAC Morphing** + Signal Amplification  
+- 🔒 **Military-Grade** OPSEC Protocol Encryption  
 ## ✨ Features
 - 🖥 User-Friendly Interface 
 - ⚙️ Lightweight Program

@@ -3,7 +3,7 @@
 
 ![Terminal Preview](1.PNG)  
 ## 📌 Overview
-I Present to you WPF-Tool, a powerful utility developed by **E7x3cutor** designed to perform brute force attacks using a password dictionary. The tool systematically tries passwords one by one until it finds the correct one
+I Present To You WPF-Tool, A Tool Developed By E7x3cutor, Designed To Perform Brute Force Attacks Using A Comprehensive Password Dictionary. This Tool Attempts To Test Passwords One By One, Systematically Revealing The Correct Password
 
 - 🚀 **Quantum-Speed** WPA/WPA2-PSK Cracking Engine  
 - 👻 **Phantom Mode** - Zero RF Fingerprint Technology  

@@ -2,9 +2,10 @@
 
 
 ![Terminal Preview](1.PNG)  
-*(Visualization of the dark energy matrix in operation)*  
+## 📌 Overview
+A Wi-Fi penetration testing tool developed by **pl7x3cut0r**, designed to perform dictionary-based brute-force attacks
+Built as part of an ethical hacking research project to explore wireless network vulnerabilities
 
-## ⚡ CORE CAPABILITIES  
 - 🚀 **Quantum-Speed** WPA/WPA2-PSK Cracking Engine  
 - 👻 **Phantom Mode** - Zero RF Fingerprint Technology  
 - 🧠 **Neural Network** Password Pattern Prediction  

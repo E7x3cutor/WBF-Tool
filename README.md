@@ -1,4 +1,4 @@
-** 📡 Advanced Wi-Fi Brute Force Toolkit - Shadow Edition  
+** 📡 Advanced Wi-Fi Brute Force Toolkit - Shadow Edition  **
 
 ![Terminal Preview](1.PNG)  
 *(Visualization of the dark energy matrix in operation)*  

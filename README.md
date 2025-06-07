@@ -1,4 +1,4 @@
-# 🔥 Advanced Wi-Fi Brute Force Toolkit - Shadow Edition 🔥  
+# ⋆༺𓆩☠︎︎𓆪༻⋆ Advanced Wi-Fi Brute Force Toolkit - Shadow Edition  
 ### 💀 Dictionary-Based Attack | Wireless Penetration Suite  
 
 ![Terminal Preview](1.PNG)  

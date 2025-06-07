@@ -3,7 +3,7 @@
 
 ![Terminal Preview](1.PNG)  
 ## 📌 Overview
-A Wi-Fi penetration testing tool developed by **pl7x3cut0r**, designed to perform dictionary-based brute-force attacks
+A Wi-Fi penetration testing tool developed by **E7x3cutor**, designed to perform dictionary-based brute-force attacks
 Built as part of an ethical hacking research project to explore wireless network vulnerabilities
 
 - 🚀 **Quantum-Speed** WPA/WPA2-PSK Cracking Engine  

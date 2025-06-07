@@ -3,8 +3,7 @@
 
 ![Terminal Preview](1.PNG)  
 ## 📌 Overview
-A Wi-Fi penetration testing tool developed by **E7x3cutor**, designed to perform dictionary-based brute-force attacks
-Built as part of an ethical hacking research project to explore wireless network vulnerabilities
+I Present to you WPF-Tool, a powerful utility developed by E7x3cutor designed to perform brute force attacks using a password dictionary. The tool systematically tries passwords one by one until it finds the correct one
 
 - 🚀 **Quantum-Speed** WPA/WPA2-PSK Cracking Engine  
 - 👻 **Phantom Mode** - Zero RF Fingerprint Technology  

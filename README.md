@@ -5,11 +5,11 @@
 ## 📌 Overview
 I Present To You WPF-Tool, A Tool Developed By E7x3cutor, Designed To Perform Brute Force Attacks Using A Comprehensive Password Dictionary. This Tool Attempts To Test Passwords One By One, Systematically Revealing The Correct Password
 ## ✨ Features
-- 🖥 User-Friendly Interface 
-- ⚙️ Lightweight Program
-- 🚀 Powerful Performance With Incredible Speed
-- 📶 Support For Networks that Rely on the MAC Address in the Password
-- 📊 Save Program Progress Status when you Stop
+- 🖥 **Easy Interface**  
+- 🚀 **Fast Performance**  
+- 📶 **Works with Networks Using MAC Address Passwords**  
+- 📊 **Save Progress and Continue Later**
+
 ## 🛠️ Installation
 <p align="left">
   <a href="https://github.com/pl7x3cut0r/wifi-bf-tool/releases/download/v1.0/WiFi.Brute.Force.exe">

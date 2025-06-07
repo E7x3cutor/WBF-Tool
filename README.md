@@ -1,5 +1,4 @@
 # ☠︎︎ Advanced Wi-Fi Brute Force Toolkit - Shadow Edition  
-### 𝕯𝖊𝖆𝖙𝖍 Dictionary-Based Attack | Wireless Penetration Suite  
 
 ![Terminal Preview](1.PNG)  
 *(Visualization of the dark energy matrix in operation)*  
